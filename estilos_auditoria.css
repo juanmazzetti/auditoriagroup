@@ -1,0 +1,60 @@
+@charset "utf-8";
+.txt12 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.txt14 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #03025F;
+	text-decoration: none;
+}
+.epigrafe {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-decoration: none;
+}
+.frase {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #B81449;
+	font-variant: normal;
+}
+.hover {
+	text-decoration: none;
+}
+#titulo {
+	font-size: 16px;
+}
+#titulos {
+	font-weight: normal;
+	width: 600px;
+	margin-left: 65px;
+}
+#botones {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #003;
+	text-decoration: none;
+	margin-left: 65px;
+	background-color: #CCC;
+	width: 550px;
+	padding-left: 5px;
+}
+a:link {
+	color: #003;
+	text-decoration: none;
+}
+a:visited {
+	color: #C00;
+	text-decoration: none;
+}
+a:hover {
+	color: #36C;
+	text-decoration: none;
+}
+a:active {
+	color: #03C;
+	text-decoration: none;
+}
